@@ -13,3 +13,6 @@ HOW TO PLAY
 2. Enter a Guess: Type a number between 1 and 100 in the text field and press the "Guess" button.
 3. Receive Feedback: The game will tell you if your guess is too small, too large, or correct.
 4. Reset the Game: Press the "Reset" button to start a new game with a different random number.
+
+ok
+sj
