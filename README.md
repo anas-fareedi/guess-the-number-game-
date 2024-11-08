@@ -14,5 +14,4 @@ HOW TO PLAY
 3. Receive Feedback: The game will tell you if your guess is too small, too large, or correct.
 4. Reset the Game: Press the "Reset" button to start a new game with a different random number.
 
-ok
-sj
+today i check againn 
